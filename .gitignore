@@ -1,0 +1,6 @@
+data/
+*.csv
+kaggle.json
+.ipynb_checkpoints/
+__pycache__/
+*Zone.Identifier
